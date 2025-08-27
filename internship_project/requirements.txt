@@ -1,0 +1,10 @@
+Flask
+requests
+python-dotenv
+transformers
+torch
+sentencepiece
+accelerate
+google-generativeai
+
+
