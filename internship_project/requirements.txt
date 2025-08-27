@@ -6,5 +6,7 @@ torch
 sentencepiece
 accelerate
 google-generativeai
+gunicorn
+
 
 
